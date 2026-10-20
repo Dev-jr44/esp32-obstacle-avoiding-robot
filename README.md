@@ -16,7 +16,7 @@ The ultrasonic sensor measures the distance to obstacles. A servo motor rotates 
 
 ### Electronics and Wiring
 
-![ESP32 robot electronics and wiring](images/electronic-wiring.jpg)
+![ESP32 robot electronics and wiring](images/electronic-wiring.png)
 
 ### Development Process
 
