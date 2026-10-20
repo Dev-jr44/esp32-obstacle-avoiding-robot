@@ -8,6 +8,20 @@ This project explores embedded systems, sensor integration, motor control, and a
 
 The ultrasonic sensor measures the distance to obstacles. A servo motor rotates the sensor to scan different directions, while the ESP32 processes the readings and controls the DC motors through the L298N motor driver.
 
+## Project Gallery
+
+### Completed Robot
+
+![Completed ESP32 obstacle-avoiding robot](images/completed-robot.jpg)
+
+### Electronics and Wiring
+
+![ESP32 robot electronics and wiring](images/electronic-wiring.jpg)
+
+### Development Process
+
+![Development and testing process](images/development-process.jpg)
+
 ## Components Used
 
 - ESP32 DevKit (ESP32-WROOM-32)
