@@ -83,9 +83,6 @@ During development, I worked through issues involving:
 These challenges helped me develop practical experience in embedded programming and electronics troubleshooting.
 
 ## Future Improvements
-
-- Add a wiring diagram and circuit layout
-- Include photos and a demonstration video
 - Improve navigation and obstacle-selection logic
 - Add wireless manual control
 
